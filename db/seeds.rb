@@ -16,3 +16,4 @@ post_params = [
 Post.delete_all
 Post.create!(post_params)
 puts "初期データの投入に成功しました!"
+puts "初期データの投入に成功しました!"
